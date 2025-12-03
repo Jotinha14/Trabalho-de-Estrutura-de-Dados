@@ -10,7 +10,7 @@ Projeto acadêmico desenvolvido para a disciplina de Estrutura de Dados que real
 - Testar algoritmos de ordenação com diferentes características
 
 ## 🏗️ Estrutura do Projeto
-TrabalhoEDD/
+Trabalho De Estrtura De Dados/
 ├── src/
 │   ├── vetor/
 │   │   ├── Vetor.java              # Vetor + buscas (sequencial e binária)
@@ -24,7 +24,7 @@ TrabalhoEDD/
 │   │   └── GeradorDados.java       # Gerador de datasets
 │   └── testes/
 │       └── AnaliseDesempenho.java  # Sistema principal + cronômetro
-└── 
+└──
 
 ## 🚀 Como Executar
 
@@ -34,7 +34,7 @@ TrabalhoEDD/
 git clone https://github.com/Jotinha14/Trabalho-de-Estrutura-de-Dados.git
 cd Trabalho de Estrutura de Dados
 
-📊 Metodologia de Testes
+## 📊 Metodologia de Testes
 
 Conjuntos de Dados
 Tamanhos: 100, 1.000 e 10.000 elementos
@@ -60,7 +60,7 @@ Cada teste executado 5 vezes
 Tempo médio calculado em milissegundos (ms)
 Complexidade teórica vs desempenho prático
 
-🔍 Estruturas Implementadas
+## 🔍 Estruturas Implementadas
 1. Vetor (vetor/Vetor.java)
 Inserção: O(1) amortizado
 Busca Sequencial: O(n)
@@ -77,7 +77,7 @@ Inserção: O(log n) garantido
 Busca: O(log n) garantido
 Característica: Auto-balanceamento com rotações
 
-🧪 Algoritmos de Ordenação
+## 🧪 Algoritmos de Ordenação
 Bubble Sort (vetor/BubbleSort.java)
 Complexidade: O(n²)
 Estável: Sim
@@ -89,7 +89,7 @@ Estável: Não
 In-place: Sim
 Melhor para: n > 100
 
-📈 RESULTADOS ESPERADOS
+## 📈 RESULTADOS ESPERADOS
 
 📊 Comportamento Teórico das Estruturas
 
@@ -146,7 +146,7 @@ Ordenação:
 Bubble Sort: Simples mas ineficiente para n grande
 Quick Sort: Eficiente na maioria dos casos
 
-💡 Análises e Conclusões
+## 💡 Análises e Conclusões
 
 Insights Obtidos
 AVL mantém desempenho consistente independente da ordem
@@ -162,7 +162,7 @@ Quick Sort: Ordenação geral de grandes conjuntos de dados
 
 
 
-👥 Autor
+## 👥 Autor
 Nome - João Vitor Façanha Neves
 
 Disciplina: Estrutura de Dados
