@@ -34,7 +34,7 @@ Trabalho De Estrtura De Dados/
 git clone https://github.com/Jotinha14/Trabalho-de-Estrutura-de-Dados.git
 cd Trabalho de Estrutura de Dados
 
-## 📊 Metodologia de Testes
+ ## 📊 Metodologia de Testes
 
 Conjuntos de Dados
 Tamanhos: 100, 1.000 e 10.000 elementos

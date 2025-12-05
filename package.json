@@ -1,0 +1,19 @@
+{
+  "name": "trabalho-de-estrutura-de-dados",
+  "version": "1.0.0",
+  "description": "Projeto acadêmico desenvolvido para a disciplina de Estrutura de Dados que realiza uma análise comparativa do desempenho de diferentes estruturas de dados (Vetores, Árvores Binárias de Busca e Árvores AVL) em operações de inserção, busca e ordenação.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jotinha14/Trabalho-de-Estrutura-de-Dados.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jotinha14/Trabalho-de-Estrutura-de-Dados/issues"
+  },
+  "homepage": "https://github.com/Jotinha14/Trabalho-de-Estrutura-de-Dados#readme"
+}
